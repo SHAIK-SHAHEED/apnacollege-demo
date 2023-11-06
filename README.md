@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first git repository
-SHAHEED
+SHAHEED SHAIK
 <br>
 #include<stdio.h>
